@@ -1,0 +1,20 @@
+
+Starting:    C:\pango\PDS_2020.1-SP4\syn\bin64\mbin\synplify.exe
+Install:     C:\pango\PDS_2020.1-SP4\syn
+Hostname:    DESKTOP-S7ATOBO
+Date:        Thu Dec 10 08:30:43 2020
+Version:     P-2019.09P-1
+
+Arguments:   -product synplify_pro -licensetype synplifypro_pango -tcl F:/mdio_1209/mdio_rtl.tcl
+ProductType: synplify_pro
+
+License checkout: synplifypro_pango
+License: synplifypro_pango node-locked 
+Licensed Vendor: pango
+
+
+
+auto_infer_blackbox is not supported in current product.
+01251TCL script complete: "F:/mdio_1209/mdio_rtl.tcl"
+1251exit status=0
+License checkin: synplifypro_pango
